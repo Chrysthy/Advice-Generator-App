@@ -1,17 +1,17 @@
-body {
+body{
     font-family: 'Manrope', sans-serif;
     font-weight: 800;
     background-color: var(--background-color);
 }
 
-.card {
+.card{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
- }
+}
 
-.advice  {
+.advice{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,7 +20,6 @@ body {
     margin: 20px;
     width: 345px;
 }
-
 .advice .advice-id{
     color: var(--advice-dice-color);
     text-transform: uppercase;
@@ -28,7 +27,6 @@ body {
     font-size: 15px;
     margin-top: 30px;
 }
-
 .advice .advice-description{
     font-size: 23px;
     padding: 23px;
