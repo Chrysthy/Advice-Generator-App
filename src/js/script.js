@@ -17,14 +17,38 @@
 
 */
 
-let btn = document.getElementById('advice-update')
-let conselho = document.getElementById('advice-id')
-let descricaoConselho = document.getElementById('advice-description')
+let btn = document.querySelector('.advice-update')
+let adviceNumber = document.querySelector('.advice-id')
+let adviceDescription = document.querySelector('.advice-description')
 
-async function gerarConselhoAleatorio() {
-    
-    const url = `https://api.adviceslip.com/advice`
+async function getAdvice() {
 
-    console.log(url);
-    
+    try {
+
+        const response = await fetch("https://api.adviceslip.com/advice")
+
+        if (!response.ok) {
+
+            throw new Error('Não foi possível obter as informações da API')
+
+        }
+
+        const adviceContent = await response.json();
+        const adviceId = `Advice #${adviceContent.slip.id}`;
+        const adviceText = `"${adviceContent.slip.advice}"`;
+
+        adviceNumber.innerText = adviceId
+        adviceDescription.innerText = adviceText
+
+    } catch (error) {
+
+        console.error("Erro ao carregar as informações da API", error);
+
+
+    }
+
 }
+
+btn.addEventListener('click', getAdvice)
+
+getAdvice()
