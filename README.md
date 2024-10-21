@@ -6,8 +6,9 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>  
-  <a href="#-contributing">Contributing</a>  
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-suport">Support</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
   <a href="#-license">License</a>  
 </p>
 
@@ -54,14 +55,14 @@
 
 
 <br>
-<hr>
-## 🤝 Contributing
+
+## 🫱🏻‍🫲🏻 Contributing
 <p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
 
 <br>
 <hr>
 <h2> Support </h2>
-<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
+<p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
 
 
 
