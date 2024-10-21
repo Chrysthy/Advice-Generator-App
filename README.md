@@ -7,6 +7,8 @@
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>  
+  <a href="#-contributing">Contributing</a>  
+  <a href="#-license">License</a>  
 </p>
 
 <p align="center">
@@ -33,9 +35,9 @@
 
 ## ✨ Features
 
-- [X] Responsive
-- [X] Click event
-- [X] API
+- [X] Responsive design
+- [X] Click event functionality
+- [X] API integration
 
 
 <br>
@@ -53,7 +55,7 @@
 
 <br>
 <hr>
-<h2> Suggestions </h2>
+## 🤝 Contributing
 <p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
 
 <br>
