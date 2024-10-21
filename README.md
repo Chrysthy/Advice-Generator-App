@@ -22,8 +22,10 @@
 
 ## 📸 Screenshots
 
+<br>
+
 <p align="center">
-  <img src=".github/imagem-do-projeto.png" alt="Imagem do Projeto"  width="80%">
+  <img src=".github/imagem-do-projeto.png" alt="Imagem do Projeto"  width="55%">
 </p>
 
 
