@@ -31,3 +31,13 @@
 
 <br>
 
+## ✨ Features
+
+- [X] Responsive
+- [X] Click event
+- [X] API
+
+
+<br>
+
+
