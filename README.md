@@ -40,4 +40,12 @@
 
 <br>
 
+## 💻 Project
+
+- The website was created to practice JavaScript, Node, JSON and API skills.
+
+<br>
+
+
+
 
